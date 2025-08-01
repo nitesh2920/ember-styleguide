@@ -71,6 +71,16 @@ export default [
         type: 'link',
       },
       {
+        href: 'https://emberjs.com/node-support',
+        name: 'Node Support',
+        type: 'link',
+      },
+      {
+        href: 'https://emberjs.com/typescript-support',
+        name: 'TypeScript Support',
+        type: 'link',
+      },
+      {
         href: 'https://deprecations.emberjs.com',
         name: 'Deprecations',
         type: 'link',
